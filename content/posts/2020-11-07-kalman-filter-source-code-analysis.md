@@ -10,7 +10,6 @@ category: programming
 tags:
   - cpp
 ---
-# Kalman Filter Source Code Analysis
 - source: [hmartiro/kalman-cpp: Basic Kalman filter implementation in C++ using Eigen](https://github.com/hmartiro/kalman-cpp) => in test.cpp, there are a few mistakes made when initiating the class.
 
 ### The structure of the code
